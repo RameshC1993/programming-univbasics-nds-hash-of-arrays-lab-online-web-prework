@@ -11,3 +11,4 @@ def add_character(show, name)
   
 end
 
+BASE_HOA[]
