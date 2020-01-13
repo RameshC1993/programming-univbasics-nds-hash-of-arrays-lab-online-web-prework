@@ -11,4 +11,4 @@ def add_character(show, name)
   
 end
 
-BASE_HOA[]
+BASE_HOA[:third_earthers] << "Snarf"
